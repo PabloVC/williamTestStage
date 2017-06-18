@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="RunCukesTest (1)" project="testWilliam" tests="9" started="9" failures="0" errors="0" ignored="0">
+  <testsuite name="com.testwilliam.RunCukesTest" time="131.157">
+    <testsuite name="Feature: Tech test stage William Hill possition" time="131.157">
+      <testsuite name="Scenario: Five pence bet football event" time="23.752">
+        <testcase name="Given Authentication on william hill" classname="Scenario: Five pence bet football event" time="18.207"/>
+        <testcase name="When Bet 0.05 to &quot;football&quot;" classname="Scenario: Five pence bet football event" time="5.544"/>
+        <testcase name="Then Assert to return, total stake and user amount" classname="Scenario: Five pence bet football event" time="0.001"/>
+      </testsuite>
+      <testsuite name="Scenario: Twelve pence bet football event" time="18.045">
+        <testcase name="Given Authentication on william hill" classname="Scenario: Twelve pence bet football event" time="12.515"/>
+        <testcase name="When Bet 0.12 to &quot;football&quot;" classname="Scenario: Twelve pence bet football event" time="5.53"/>
+        <testcase name="Then Assert to return, total stake and user amount" classname="Scenario: Twelve pence bet football event" time="0.0"/>
+      </testsuite>
+      <testsuite name="Scenario: Twelve eigth bet tennis event" time="22.615">
+        <testcase name="Given Authentication on william hill" classname="Scenario: Twelve eigth bet tennis event" time="17.016"/>
+        <testcase name="When Bet 0.08 to &quot;tennis&quot;" classname="Scenario: Twelve eigth bet tennis event" time="5.597"/>
+        <testcase name="Then Assert to return, total stake and user amount" classname="Scenario: Twelve eigth bet tennis event" time="0.002"/>
+      </testsuite>
+    </testsuite>
+  </testsuite>
+</testrun>
